@@ -2,6 +2,7 @@
 A group project to create a survey about programming language preferences between Java, R, and Python among students from scratch. 
 It consists of 7 phases from making the questions to analysing and giving the final insights.
 ## Project Phases 
+
 ### 1. Proposal 
 > Main points: 
 * Constructing the objectives and the research questions.
